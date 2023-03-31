@@ -41,8 +41,8 @@ function Fruitsurvey(){
           <MenuItem value={"Apple"}>Apple</MenuItem>
           <MenuItem value={"Banana"}>Banana</MenuItem>
           <MenuItem value={"Cherry"}>Cherry</MenuItem>
-          <MenuItem value={"Blueberry"}>Durian</MenuItem>
-          <MenuItem value={"Mango"}>Elderberry</MenuItem>
+          <MenuItem value={"Blueberry"}>Blueberry</MenuItem>
+          <MenuItem value={"Mango"}>Mango</MenuItem>
         </Select>
         </FormControl>
         <br/><br/>
